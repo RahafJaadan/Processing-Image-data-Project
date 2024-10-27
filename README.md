@@ -9,10 +9,11 @@ A basic project that demonstrates how to perform simple image processing tasks u
 - Matplotlib
  Install the required packages with:
 ```bash
- pip install opencv-python matplotlib ```
+ pip install opencv-python matplotlib
+```
 
 
 ## Features
-• Reading an image file: Loads an image and converts it into a Numpy array for processing.
-• Resizing the image: Adjusts the image dimensions.
-• RGB to Grayscale conversion: Converts the image from color to grayscale.
+* **Reading an image file**: Loads an image and converts it into a Numpy array for processing.
+* **Resizing the image**: Adjusts the image dimensions.
+* **RGB to Grayscale conversion**: Converts the image from color to grayscale.
